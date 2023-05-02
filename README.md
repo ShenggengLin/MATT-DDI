@@ -11,7 +11,7 @@ All the code for this work runs in the same Python virtual environment. The pack
 
 2. Data
 
-Two datasets are used in this work. The first data set can be downloaded from https://github.com/ShenggengLin/MDF-SA-DDI/event.zip. The second data set is available from https://github.com/ShenggengLin/MDF-SA-DDI/df_extraction_cleanxiaoyu50.zip and https://github.com/ShenggengLin/MDF- SA - DDI/drug_information_del_noDDIxiaoyu50.zip to download.
+Two datasets are used in this work. The first data set can be downloaded from https://github.com/ShenggengLin/MDF-SA-DDI/event.zip. The second data set is available from https://github.com/ShenggengLin/MDF-SA-DDI/df_extraction_cleanxiaoyu50.zip and https://github.com/ShenggengLin/MDF-SA-DDI/drug_information_del_noDDIxiaoyu50.zip to download.
 
 
 3. train and test
